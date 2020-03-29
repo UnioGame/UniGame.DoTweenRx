@@ -1,0 +1,18 @@
+{
+    "name": "unigame.dotweenrx.runtime",
+    "references": [
+        "UniRx",
+        "UniRx.Async",
+        "DOTween.Modules",
+        "DOTweenPro.Scripts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

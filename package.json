@@ -1,0 +1,21 @@
+{
+  "name": "com.unigame.dotweenrx",
+  "author": "HartMagic (https://github.com/HartMagic)",
+  "displayName": "UniGame DoTween Rx",
+  "description": "DoTween Rx Extension",
+  "homepage": "https://github.com/UniGameTeam/UniGame.DoTweenRx#README",
+  "unity": "2019.2",
+  "version": "2020.0.0",
+  "keywords": [
+    "dotween",
+	"rx"
+  ],
+  "dependencies": {
+    "com.unigame.neuecc.unirx": "7.1.1",
+    "com.unigame.neuecc.unirx.async": "1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UniGameTeam/UniGame.DoTweenRx"
+  }
+}
