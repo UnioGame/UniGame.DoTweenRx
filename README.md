@@ -1,5 +1,9 @@
 # Unity DoTweenRx
 
+<p align="center">
+  <img src="Editor/Assets/rx_dotween.png">
+</p>
+
 DoTween Rx extension package
 
 ### Unity Package Installation
