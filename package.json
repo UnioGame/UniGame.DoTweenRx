@@ -5,14 +5,14 @@
   "description": "DoTween Rx Extension",
   "homepage": "https://github.com/UniGameTeam/UniGame.DoTweenRx#README",
   "unity": "2019.2",
-  "version": "2020.0.0",
+  "version": "2020.0.1",
   "keywords": [
     "dotween",
-	"rx"
+    "rx"
   ],
   "dependencies": {
     "com.unigame.neuecc.unirx": "7.1.1",
-    "com.unigame.neuecc.unirx.async": "1.2.0"
+    "com.unigame.neuecc.unirx.async": "1.3.0"
   },
   "repository": {
     "type": "git",
