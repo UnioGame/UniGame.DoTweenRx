@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "com.unigame.neuecc.unirx": "7.1.1",
-    "com.cysharp.unitask" : "2.0.26"
+    "com.unigame.neuecc.unitask": "2.0.32"
   },
   "repository": {
     "type": "git",

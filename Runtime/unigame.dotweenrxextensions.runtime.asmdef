@@ -2,9 +2,9 @@
     "name": "unigame.dotweenrx.runtime",
     "references": [
         "UniRx",
-        "UniRx.Async",
         "DOTween.Modules",
-        "DOTweenPro.Scripts"
+        "DOTweenPro.Scripts",
+        "UniTask"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
